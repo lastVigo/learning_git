@@ -42,3 +42,9 @@
 ## reflog
 
 这个命令可以查看HEAD的变更记录，包括有历次commit记录、在历次commit之间切换的记录。
+
+## reset --hard versonNO
+
+强制切换HEAD到特定版本。
+
+这个命令使用后会丢失当前状态下没有提交的内容。
