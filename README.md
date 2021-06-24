@@ -6,3 +6,5 @@ Git是一个版本控制软件，而且还是免费的。
 
 看着简单，深入还挺麻烦。
 mod in b2
+
+this is add branch
